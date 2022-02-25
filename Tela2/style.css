@@ -1,0 +1,399 @@
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro&family=Overpass:wght@400;600;700&display=swap');
+
+
+* {
+        margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    font-size: 100%; 
+    background: #1D1D1D;
+    box-shadow: 0px 24px 62px 14px rgb (17, 17, 17, 0.32);
+    border-radius: 20px; 
+  }
+
+  .conteudo-cabecalho-imagem{
+    position: absolute;
+    width: 1200px;
+    height: 45px;
+    left: 120px;
+    top: 60px;
+ }
+ 
+ .conteudo-cabecalho-imagem2{
+    position: relative;
+    width: 200px;
+    height: 50px;
+    left: 1104px;
+    top: 100px;
+ }
+ 
+.conteudo-formato-cartao-dev1 {
+    position: absolute;
+    width: 300px;
+    height: 400px;
+    left: 170px;
+    top: 300px; 
+    opacity: 50%;
+    border-radius: 10px;
+    color: #F9F9F9 10%;
+}
+
+.conteudo-principal-dev1-img-dev {
+    position: absolute;
+    width: 175px;
+    height: 175px;
+    left: 232px;
+    top: 330px;
+}
+
+.conteudo-principal-dev1-img-linha-foto{
+    position: absolute;
+    width: 125px;
+    height: 1px;
+    left: 257px;
+    top: 522px;
+}
+
+.conteudo-principal-dev1-texto1{
+    font-family: 'Maven Pro', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 30px;
+    color: #FFFFFF;;
+    position: relative;
+    width: 2250px;
+    height: 220px;
+    left: 180px;
+    top: 443px;
+}
+
+.conteudo-principal-dev1-texto2{
+    font-family: 'Maven Pro', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;;
+    position: relative;
+    width: 2250px;
+    height: 230px;
+    left: 220px;
+    top: 250px;   
+}
+
+.conteudo-principal-dev1-button-ver-mais {
+    background: #27AE60;
+    position: absolute;
+    left: 306px;
+    font-family: Maven Pro;
+    width: 126px;
+    height: 47px;
+    top: 621px;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.2);
+    border-radius: 55px;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.conteudo-principal-dev1-img-icone-git {
+    position: absolute;
+    top: 628px;
+    left: 221px;
+}
+
+.conteudo-principal-dev1-img-icone-linkkedin{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 260px;
+    top: 630px;
+}
+
+.conteudo-button-dev1-E{
+    position: absolute;
+    left: 12px;
+    right: 79px;
+    top: 285px;
+    bottom: 15px;
+    background: #DBB801;
+    border-radius: 55px;
+    Width: 125px;
+    Height: 40px;
+    Top: 753px;
+    Left: 185px;
+}
+
+.conteudo-button-dev1-D{
+    position: absolute;
+    left: 25px;
+    right: 70px;
+    top: 85px;
+    bottom: 12px;
+    background: #F42626;
+    border-radius: 55px;
+    Width: 125px;
+    Height: 40px;
+    Top: 753px;
+    Left: 330px;
+}
+
+.conteudo-button-dev2-E{
+    position: absolute;
+    left: 12px;
+    right: 79px;
+    top: 285px;
+    bottom: 15px;
+    background: #DBB801;
+    border-radius: 55px;
+    Width: 125px;
+    Height: 40px;
+    Top: 753px;
+    Left: 590px;
+}
+
+.conteudo-button-dev2-D{
+    position: absolute;
+    left: 25px;
+    right: 70px;
+    top: 85px;
+    bottom: 12px;
+    background: #F42626;
+    border-radius: 55px;
+    Width: 125px;
+    Height: 40px;
+    Top: 753px;
+    Left: 735px;
+}
+
+.conteudo-button-dev3-E{
+    position: absolute;
+    left: 12px;
+    right: 79px;
+    top: 285px;
+    bottom: 15px;
+    background: #DBB801;
+    border-radius: 55px;
+    Width: 125px;
+    Height: 40px;
+    Top: 753px;
+    Left: 990px;
+}
+
+.conteudo-button-dev3-D{
+    position: absolute;
+    left: 25px;
+    right: 70px;
+    top: 85px;
+    bottom: 12px;
+    background: #F42626;
+    border-radius: 55px;
+    Width: 125px;
+    Height: 40px;
+    Top: 753px;
+    Left: 1150px;
+}
+    
+.conteudo-principal-dev2{
+    position: absolute;
+    width: 200px;
+    height: 300px;
+    left: 620px;
+    top: 305px;    
+}
+
+.conteudo-formato-cartao-dev2{
+    
+    position: absolute;
+    width: 300px;
+    height: 400px;
+    left: 570px;
+    top: 300px;
+    opacity: 50%;
+    border-radius: 10px;
+    color: #F9F9F9 10%;
+}
+
+.conteudo-principal-dev2-img-dev{
+    position: absolute;
+    width: 175px;
+    height: 175px;
+    left: 4px;
+    top: 20px;
+}
+
+.conteudo-principal-dev2-img-linha-foto{
+    position: absolute;
+    width: 125px;
+    height: 1px;
+    left: 30px;
+    top: 210px;
+}
+
+.conteudo-principal-dev2-texto1{
+    font-family: 'Maven Pro', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 30px;
+    color: #FFFFFF;;
+    position: absolute;
+    width: 350px;
+    height: 280px;
+    left: -40px;
+    top: 215px;
+}
+
+.conteudo-principal-dev2-texto2{
+    font-family: 'Maven Pro', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+    position: relative;
+    width: 2250px;
+    height: 230px;
+    left: -7px;
+    top: 260px; 
+}
+
+.conteudo-principal-dev2-button-ver-mais {
+    background: #27AE60;
+    position: absolute;
+    left: 700px;
+    font-family: Maven Pro;
+    width: 126px;
+    height: 47px;
+    top: 621px;
+    box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.2);
+    border-radius: 55px;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.conteudo-principal-dev2-img-icone-git{
+    position: absolute;
+    top: 312px;
+    left: -14px; 
+}
+
+.conteudo-principal-dev2-img-icone-linkkedin{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 25px;
+    top: 315px;
+}
+
+.conteudo-principal-dev3{
+    position: absolute;
+    width: 300px;
+    height: 400px;
+    left: 1015px;
+    top: 305px;  
+}
+
+.conteudo-principal-dev3-img-dev{
+    position: absolute;
+    width: 175px;
+    height: 175px;
+    left: 4px;
+    top: 20px;
+}
+
+.conteudo-principal-dev3-texto1{
+    font-family: 'Maven Pro', sans-serif;
+    font-style: normal;
+    font-weight: 200px;
+    font-size: 15px;
+    line-height: 30px;
+    color: #FFFFFF;
+    position: absolute;
+    width: 500px;
+    height: 200px;
+    left: -15px;
+    top: 220px;
+    right:-300px;
+}
+
+.conteudo-principal-dev3-texto2{
+    font-family: 'Maven Pro', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+    position: relative;
+    width: 2250px;
+    height: 230px;
+    left: -4px;
+    top: 265px;  
+}
+
+.conteudo-principal-dev3-img-linha-foto{
+    position: absolute;
+    width: 125px;
+    height: 1px;
+    left: 30px;
+    top: 210px;
+}
+
+.conteudo-principal-dev3-img-icone-git{
+    position: absolute;
+    top: 312px;
+    left: -14px;
+}
+
+.conteudo-principal-dev3-img-icone-linkkedin{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 25px;
+    top: 315px;
+}
+
+.conteudo-principal-dev3-button-ver-mais{
+    background: #27AE60;
+    position: absolute;
+    left: 1087px;
+    font-family: Maven Pro;
+    width: 126px;
+    height: 47px;
+    top: 621px;
+    box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.2);
+    border-radius: 55px;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.conteudo-formato-cartao-dev3{
+    position: absolute;
+    width: 300px;
+    height: 400px;
+    left: 970px;
+    top: 300px;
+    opacity: 50%;
+    border-radius: 10px;
+    color: #F9F9F9 10%;
+}
+
+.conteudo-lateral-esquerda {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 50px;
+    top: 465px;
+}
+
+.conteudo-lateral-direito {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 1320px;
+    top: 465px;
+}
